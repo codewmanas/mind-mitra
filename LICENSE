@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2025 Manas kolaskar
+Copyright (c) 2025 Neural Bros
+
+Project: MindMitra – An AI Mental Health Companion for Students
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,13 +11,40 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Attribution**  
+    The above copyright notice, this permission notice, and the following disclaimer shall be included in all copies or substantial portions of the Software.
+
+2. **Purpose**  
+    MindMitra is intended as an AI-powered mental health companion for students. While it aims to provide support and guidance, it is not a substitute for professional medical advice, diagnosis, or treatment.
+
+3. **Warranty Disclaimer**  
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+4. **Limitation of Liability**  
+    In no event shall Neural Bros or contributors be liable for any direct,
+    indirect, incidental, special, exemplary, or consequential damages (including,
+    but not limited to, procurement of substitute goods or services; loss of use,
+    data, or profits; or business interruption) however caused and on any theory
+    of liability, whether in contract, strict liability, or tort (including
+    negligence or otherwise) arising in any way out of the use of this Software,
+    even if advised of the possibility of such damage.
+
+5. **User Responsibility**  
+    Users are responsible for ensuring that their use of MindMitra complies with
+    all applicable laws and regulations, especially those related to mental health
+    and data privacy.
+
+6. **No Endorsement**  
+    Use of the names "Neural Bros" or "MindMitra" does not imply endorsement by
+    the authors or contributors.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
