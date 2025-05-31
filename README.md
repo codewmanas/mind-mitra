@@ -1,1 +1,1 @@
-<h1 align="center">🧘🧠 Mind-Mitra <br> AI Agent-Based Mental Wellness Companion for Students </h1>
+<h1 align="center">🧘🧠 Mind-Mitra <br> AI Agent-Based Mental Wellness Companion for Students </h1> 
