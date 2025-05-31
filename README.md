@@ -16,6 +16,7 @@
 * Track emotional progress over time 📈
 
 > 🧪 This is the **first version (v1.0)** of MindMitra, created as a part of a national-level GenAI Hackathon.
+📚 [Live Documentation](https://manaskolaskar.notion.site/mind-mitra) - Check out our detailed documentation on Notion
 
 ---
 
