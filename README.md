@@ -1,8 +1,8 @@
 <h1 align="center"> 🧠 MindMitra </h1>
 
-> *Your Friendly AI Buddy for Emotional Support & Motivation* ✨
+> <p align = "center"> *Your Friendly AI Buddy for Emotional Support & Motivation* ✨ </p>
 
-![MindMitra Banner](https://via.placeholder.com/1200x300?text=MindMitra+AI+Buddy)
+![MindMitra Banner](banner.gif)
 
 ---
 
